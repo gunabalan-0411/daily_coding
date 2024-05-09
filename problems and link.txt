@@ -1,0 +1,31 @@
+Morning:
+DS Self Notes
+
+Getting started Notes
+https://www.linkedin.com/posts/ashishps1_i-solved-1583-leetcode-problems-but-if-activity-7184412875266908160-74aa/?utm_source=share&utm_medium=member_android
+
+Evening Code:
+https://github.com/Garvit244/Leetcode/tree/master?tab=readme-ov-file
+
+Morning Code: From Leetcode
+- Hash Table
+- Dynamic Programming
+Sorting
+Greedy
+Depth First Search
+Tree 
+Breadth First Search
+Binary Tree
+Stack
+Graph
+Design
+Sliding window
+Backtracking
+Linked List
+Trie
+Divide and Conquer
+Recursion
+Queue
+Segement Tree
+Binary Search Tree
+Doubly Linked List

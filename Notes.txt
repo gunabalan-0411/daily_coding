@@ -1,0 +1,3 @@
+ * Find index of a last occurrence of a duplicated value in a list:
+ - When you define a dictionary with duplicate keys, only the last occurrence of the key is stored in the dictionary.
+ * Use math.fmode(val, val1) to get the remainder cuz somtimes  -1 % 10 results in 9 in python
