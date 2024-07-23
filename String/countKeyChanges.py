@@ -1,0 +1,7 @@
+import itertools
+
+class Solution:
+    def countKeyChanges(self, s: str) -> int:
+        return sum(a.lower() != b.lower()
+               for a, b in itertools.pairwise(s))
+        
