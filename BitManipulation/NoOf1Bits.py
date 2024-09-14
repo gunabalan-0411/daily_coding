@@ -9,7 +9,12 @@ def hammingWeight(n):
     #     res += n % 2
     #     n = n >> 1 
     # return res
-
+    # brute force
+    # count = 0
+    # while n:
+    #     count += n & 1 
+    #     n = n >> 1
+    # return count
     # 19 ms instead of iterate each bit, directly hit 1s
     while n:
         n &= (n -1)
